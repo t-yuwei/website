@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+#first .jumbotron{
+	height: 70vh;}
+
+#first h1{
+	color: brown;}
+
+#introfirst img{
+	width: 300px;}
+
+#introsecond a{
+	text-decoration: none;
+	color: darkolivegreen;}
+
+#introsecond{
+	padding-top: 100px;
+	padding-bottom: 50px;
+	padding-left: 30px;
+	padding-right: 30px;}
+
+#accordionExample img{
+	border-radius:15px;}
+
+.accordion{
+	max-width: 300px;
+	box-shadow:0 0 10px rgba(34,45,45,0,2);
+	border-radius: 5px;
+	overflow: hidden;
+	font-family: "Georgia", serif;}
+
+.bodybg{
+	color:darkslategray;
+	background-color: honeydew;}
+
+.bodybg2{
+	color: darkcyan;
+	background-color: lightsalmon;}
+
+.bg4{background-color: darkgray;}
+
+#location{
+	padding-top: 50px;
+	padding-left: 80px;}
+
+#QAfirst{
+	padding-top: 50px;
+	padding-left: 80px;
+}
+
